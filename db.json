@@ -1,14 +1,14 @@
-[  
-  {
-    	"id": 1,
-    	"name": "cronometro",
-	},
-	{
-    	"id": 2,
-    	"name": "reloginho",
-	},
-	{
-    	"id": 3,
-    	"name": "computador",
-	}
+[
+   {
+      "id":1,
+      "name":"cronometro"
+   },
+   {
+      "id":2,
+      "name":"reloginho"
+   },
+   {
+      "id":3,
+      "name":"computador"
+   }
 ]
